@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lanttu1243 a computer science student from Finland
-- 👀 I’m interested in python and machine learning
-- 🌱 I’m currently learning machine learning
+- Hi, I’m @lanttu1243 a computer science student from Finland
+- I’m interested in python and machine learning
+- I’m currently learning machine learning
